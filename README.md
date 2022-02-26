@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/saniya-samreen-faizi-syed-a666a1232/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://github.com/Saniya-SSSF/saniyaprofile)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/18118824/syed-saniya-samreen-faizi)
+[![Linkedin Badge](https://img.shields.io/badge/-Saniya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saniya-samreen-faizi-syed-a666a1232/)](https://www.linkedin.com/in/saniya-samreen-faizi-syed-a666a1232/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Saniya-green)](https://github.com/Saniya-SSSF/saniyaprofile)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Saniya-yellow)](https://stackoverflow.com/users/18118824/syed-saniya-samreen-faizi)
 
 I'm
 Full Stack Developer
