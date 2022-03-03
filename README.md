@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Saniya-green)](https://saniya-sssf.github.io/saniyaprofile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Saniya-yellow)](https://stackoverflow.com/users/18118824/syed-saniya-samreen-faizi)
 
-I'm an intern at edureka as a Full Stack Developer
+I'm an intern at edureka as a Full Stack Developer.
 The crossover between design and programming has always been of interest to me. Iam good at HTML,CSS.
 
 ![Visitor Count](https://profile-counter.glitch.me/Saniya-SSSF/count.svg)
