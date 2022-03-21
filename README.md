@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Saniya-yellow)](https://stackoverflow.com/users/18118824/syed-saniya-samreen-faizi)
 
 I'm an intern at edureka as a Full Stack Developer.
-The crossover between design and programming has always been of interest to me. I have skills like HTML,CSS.
+The crossover between design and programming has always been of interest to me. I have skills like HTML,CSS,Bootstrap.
 
 ![Visitor Count](https://profile-counter.glitch.me/Saniya-SSSF/count.svg)
 
@@ -18,7 +18,7 @@ The crossover between design and programming has always been of interest to me. 
 
 Languages and Tools: 
 
-<img alt="HTML" src="https://img.shields.io/badge/html-%23E34F26.svg?style=flat-square&logo=html&logoColor=white"/> <img alt="CSS" src="https://img.shields.io/badge/css-%231572B6.svg?style=flat-square&logo=css&logoColor=white"/>
+<img alt="HTML" src="https://img.shields.io/badge/html-%23E34F26.svg?style=flat-square&logo=html&logoColor=white"/> <img alt="CSS" src="https://img.shields.io/badge/css-%231572B6.svg?style=flat-square&logo=css&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/>
 
 ![](https://activity-graph.herokuapp.com/graph?username=Saniya-SSSF&theme=react-dark&area=true)
 <!--
